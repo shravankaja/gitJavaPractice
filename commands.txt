@@ -1,0 +1,10 @@
+git init - to create a new local repository
+git add . - to add al files and folders to local
+git commit -m "Message" - commiting 
+git checkout -b branhName - add and switch to branch 
+git push origin branchname  - push to branch
+git merger branchName - merge with master
+git push origin master - push it to master
+touch .gitignore - to create ignore file list
+git add remoteRepository - to add remote repository 
+
