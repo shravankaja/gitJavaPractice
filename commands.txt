@@ -7,4 +7,7 @@ git merger branchName - merge with master
 git push origin master - push it to master
 touch .gitignore - to create ignore file list
 git add remoteRepository - to add remote repository 
+git pull origin master - to pull changes made on repository
+git clone http://        - to download entre repository 
+git rm abc.java        - to delete file form woring tree
 
